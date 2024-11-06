@@ -1,0 +1,18 @@
+{
+  "name": "daisuke-arakawa",
+  "version": "1.0.0",
+  "description": "Daisuke Arakawa's Profile",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "textlint": "^14.3.0"
+  }
+}
